@@ -7,7 +7,7 @@ Full Stack Web Developer
 I’m a recent grad with a degree in Electronics & Communication Engineering. I’m super passionate about Full Stack Development and I’m eager to learn and grow my skills in that area.
 
 * 🌍  I'm based in Bangalore,India
-* 🖥️  See my portfolio at [MyPortfolio](http://abhishekbalija.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](http://abhishekbalija.xyz/)
 * ✉️  You can contact me at [abhishekan017@gmail.com](mailto:abhishekan017@gmail.com)
 * 🚀  I'm currently working on [QuickChat](http://quickchat-rnd2.onrender.com/)
 * 🧠  I'm learning React Framework
