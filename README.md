@@ -9,7 +9,7 @@ I’m a recent grad with a degree in Electronics & Communication Engineering. I�
 * 🌍  I'm based in Bangalore,India
 * 🖥️  See my portfolio at [MyPortfolio](http://abhishekbalija.xyz/)
 * ✉️  You can contact me at [abhishekan017@gmail.com](mailto:abhishekan017@gmail.com)
-* 🚀  I'm currently working on [ChessApp]([http://quickchat-rnd2.onrender.com/](https://github.com/AbhishekBalija/ChessApp))
+* 🚀  I'm currently working on [ChessApp](https://github.com/AbhishekBalija/ChessApp)
 * 🧠  I'm learning React Framework
 * 🤝  I'm open to collaborating on Innovative web applications
 
