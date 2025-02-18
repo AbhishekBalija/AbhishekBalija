@@ -29,10 +29,24 @@ src="https://img.shields.io/twitter/follow/AbhishekBalija1?logo=twitter&style=fo
 
 
 
-<b>Top Repositories</b>
+<h2 align="center">🌟 Top Repositories 🌟</h2>
 
-<div width="100%" align="center"><a href="https://github.com/AbhishekBalija/QuickChat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=QuickChat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhishekBalija/Simon-Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Simon-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/AbhishekBalija/QuickChat" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=QuickChat&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/AbhishekBalija/Sales_Savvy_FE" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Sales_Savvy_FE&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
+  </a>
+</div>
 
+<br /><br /><br /><br /><br /><br /><br />
 
-
-<div width="100%" align="center"><a href="https://github.com/AbhishekBalija/BMI-Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=BMI-Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhishekBalija/SnapCart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=SnapCart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/AbhishekBalija/django-project" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=django-project&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/AbhishekBalija/Arogyam" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
+  </a>
+</div>
