@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/AbhishekBalija1?logo=twitter&style=fo
 <a href="https://github.com/AbhishekBalija/Univent-College_Event_Management_System.git" align="left">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Univent-College_Event_Management_System&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
 </a>
-  <a href="https://github.com/AbhishekBalija/Arogyam" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF" />
-  </a>
+<a href="https://github.com/AbhishekBalija/Arogyam" target="_blank">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&border_radius=20&border_color=7F3FBF" />
+</a>
 </div>
