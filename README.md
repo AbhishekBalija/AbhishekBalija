@@ -1,52 +1,85 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek AN
-===================================================================================================================================
+<div align="center">
 
-Full Stack Web Developer
-------------------------
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=100&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Hi+There!+%F0%9F%91%8B;I'm+Abhishek+AN" alt="Typing SVG" />
 
-I’m a recent grad with a degree in Electronics & Communication Engineering. I’m super passionate about Full Stack Development and I’m eager to learn and grow my skills in that area.
+<br/>
 
-* 🌍  I'm based in Bangalore,India
-* 🖥️  See my portfolio at [MyPortfolio](http://abhishekbalija.xyz/)
-* ✉️  You can contact me at [abhishekan017@gmail.com](mailto:abhishekan017@gmail.com)
-* 🚀  I'm currently working on [API Market](https://github.com/AbhishekBalija/API-Market)
-* 🧠  I'm learning React Framework
-* 🤝  I'm open to collaborating on Innovative web applications
+### 👨‍💻 About Me
 
-<a href="https://www.github.com/AbhishekBalija" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AbhishekBalija?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AbhishekBalija1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AbhishekBalija1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"></a>
+<p align="center">
+I’m a recent grad with a degree in <b>Electronics & Communication Engineering</b>.
+<br/>
+I’m super passionate about <b>Full Stack Development</b> and eager to learn and grow my skills in that area.
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AbhishekBalija" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/abhishekan_17/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishek-a-n-551701221/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AbhishekBalija1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-
-
-<h2 align="center">🌟 Top Repositories 🌟</h2>
-
-<div width="100%" align="center">
-  <a href="https://github.com/AbhishekBalija/QuickChat" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=QuickChat&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF&cache_seconds=1" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-7aa2f7?style=for-the-badge&logoColor=white" alt="Based in Bangalore, India" />
+  <a href="https://github.com/AbhishekBalija/API-Market">
+    <img src="https://img.shields.io/badge/Working%20on-Startup-9ece6a?style=for-the-badge&logoColor=white" alt="Working on: Startup" />
   </a>
-  <a href="https://github.com/AbhishekBalija/Sales_Savvy_FE" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Sales_Savvy_FE&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF&cache_seconds=1" />
+  <img src="https://img.shields.io/badge/Learning-DSA-e0af68?style=for-the-badge&logoColor=white" alt="Learning DSA" />
+  <a href="http://abhishekbalija.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-abhishekbalija.xyz-bb9af7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<br/>
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,vscode,vite,tailwind,bootstrap,chakra" />
+  </a>
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekBalija&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Abhishek's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AbhishekBalija&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🌟 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/AbhishekBalija/Monster-Energy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Monster-Energy&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbhishekBalija/GTA-VI-Landing-Page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=GTA-VI-Landing-Page&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/AbhishekBalija/Univent-College_Event_Management_System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Univent-College_Event_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/AbhishekBalija/Arogyam">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br/>
 
-<div width="100%" align="center">
-<a href="https://github.com/AbhishekBalija/Univent-College_Event_Management_System.git" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Univent-College_Event_Management_System&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&border_radius=20&border_color=7F3FBF&cache_seconds=1" />
-</a>
-<a href="https://github.com/AbhishekBalija/Arogyam" target="_blank">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&border_radius=20&border_color=7F3FBF&cache_seconds=1" />
-</a>
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-a-n-551701221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="http://www.instagram.com/abhishekan_17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.x.com/AbhishekBalija1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:abhishekan017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 </div>
