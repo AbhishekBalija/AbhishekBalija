@@ -35,36 +35,6 @@ I’m super passionate about <b>Full Stack Development</b> and eager to learn an
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekBalija&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Abhishek's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AbhishekBalija&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-### 🌟 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/AbhishekBalija/Monster-Energy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Monster-Energy&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/AbhishekBalija/GTA-VI-Landing-Page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=GTA-VI-Landing-Page&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/AbhishekBalija/Univent-College_Event_Management_System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Univent-College_Event_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/AbhishekBalija/Arogyam">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekBalija&repo=Arogyam&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<br/>
-
 ### 📫 Connect with Me
 
 <div align="center">
